@@ -3,7 +3,7 @@
 **Overview:**
 This repository provides a template for machine learning projects, structured to facilitate the training, evaluation, and deployment of machine learning models. The project includes various components, such as data ingestion, data transformation, model training, and utilities for saving and loading models.
 
-This project template is inspired by a tutorial by Krish Naik, and includes my own enhancements and adaptations.
+This project template is inspired by a tutorial by Krish Naik, 
 
 **Features**
 Data Ingestion: Handles the process of loading and preparing raw data for analysis.
